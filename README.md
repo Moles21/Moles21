@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Moles21
-- 👀 I’m interested in Data analysis,Data visualization,Machine learning & business Analytics
+- 👀 I’m interested in Machine learning,Artificial intelligence,NLP and Data Anlysis
 - 🌱 I’m currently learning Machine learning in Python,R and SQL and Power BI
 - 💞️ I’m looking to collaborate on Machine learning projects
 - 📫 How to reach me 9619954097/msdoshi25@gmail.com
